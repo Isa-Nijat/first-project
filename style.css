@@ -1,4 +1,8 @@
 h1 {
     color: red;
-font-size: 15px;
+    text-decoration: dashed;
+    text-align: right;
+    font-weight: bolder;
+    font: size 100px;
+
 }
